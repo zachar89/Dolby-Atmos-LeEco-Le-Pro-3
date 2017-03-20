@@ -5,7 +5,7 @@ This module enables LeEco Le Pro 3 Dolby Atmos port and is the second most compa
 * Android Marshmallow+
 * Magisk install (MagiskSU/SuperSU)
 * System install (only in permissive)
-* Works with Viper4Android and AM3D Zirene
+* Works with AM3D Zirene® Sound & Viper4Android
 
 ### Credits
 * Dolby Laboratories
