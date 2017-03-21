@@ -52,7 +52,7 @@ LATESTARTSERVICE=false
 print_modname() {
   ui_print " "
   ui_print "      ****************************************"
-  ui_print "      *      LeEco Le Pro 3 Dolby Atmos      *"
+  ui_print "      *      LeEco Le Pro 3 Dolby Atmos®     *"
   ui_print "      ****************************************"
   ui_print "      *           Universal - Mod            *"
   ui_print "      *             Version 2.0              *"
