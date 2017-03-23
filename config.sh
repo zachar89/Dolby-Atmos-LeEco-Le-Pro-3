@@ -55,7 +55,7 @@ print_modname() {
   ui_print "      *     LeEco Le Pro 3 Dolby Atmos®      *"
   ui_print "      ****************************************"
   ui_print "      *           Universal - Mod            *"
-  ui_print "      *             Version 2.0              *"
+  ui_print "      *             Version 2.1              *"
   ui_print "      *              by ahrion               *"
   ui_print "      ****************************************"
   ui_print " "
