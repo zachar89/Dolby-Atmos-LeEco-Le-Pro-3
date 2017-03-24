@@ -12,5 +12,8 @@ This module enables LeEco Le Pro 3 Dolby Atmos port and is the second most compa
 * LeEco
 
 ## Change Log
+2.1
+    - AudModLib v1.1 hotfix for bootloops issues on some devices
+
 2.0
     - Initial Magisk release
