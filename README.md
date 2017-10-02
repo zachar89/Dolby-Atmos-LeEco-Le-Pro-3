@@ -11,7 +11,7 @@ This module enables LeEco Le Pro 3 Dolby Atmos port and is the second most compa
 * Magisk & System install
 * Nexus/Pixel support (A/B OTA)
 * SELinix enforcing (LOS SU & rootless need permissive)
-* Works with [AM3D Zirene Sound](https://forum.xda-developers.com/android/apps-games/mod-zirene-sound-am3d-t3396698/post71580634#post71580634} & ViPER4Android [FX](https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058)/XHiFi
+* Works with [AM3D Zirene Sound](https://forum.xda-developers.com/android/apps-games/mod-zirene-sound-am3d-t3396698/post71580634#post71580634) & ViPER4Android [FX](https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058)/XHiFi
 
 ## Change Log
 v3.0
