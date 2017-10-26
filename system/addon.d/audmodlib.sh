@@ -1,10 +1,10 @@
 #!/sbin/sh
 #
 . /tmp/backuptool.functions
-MODID=<MODID>
+
 list_files() {
 cat <<EOF
-$(cat /tmp/addon.d/$MODID-files)
+$(cat /tmp/addon.d/audmodlib-files)
 EOF
 }
 
