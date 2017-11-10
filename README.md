@@ -1,11 +1,11 @@
-# <name>
-This module enables <name> port and is the <compnum>most compatible of all the ports. [More details in support thread](https://forum.xda-developers.com/android/software/soundmod-axon-7-dolby-atmos-t3412342).
+# LeEco Le Pro 3 Dolby Atmos
+This module enables LeEco Le Pro 3 Dolby Atmos port and is the second most compatible of all the ports. [More details in support thread](https://forum.xda-developers.com/android/software/soundmod-axon-7-dolby-atmos-t3412342).
 
 ### Dependencies
 * [Audio Modification Library](https://forum.xda-developers.com/apps/magisk/module-audio-modification-library-t3579612) @ XDA Developers
 
 ## Compatibility
-* Android <compatibility>
+* Android Marshmallow+
 * init.d (other root & rootless) - requires init.d support. If you don't have init.d support, try [Init.d Injector](https://forum.xda-developers.com/android/software-hacking/mod-universal-init-d-injector-wip-t3692105)
 * MagiskSU & SuperSU
 * Magisk & System install
@@ -14,6 +14,9 @@ This module enables <name> port and is the <compnum>most compatible of all the p
 * Works with [AM3D Zirene Sound](https://forum.xda-developers.com/android/apps-games/mod-zirene-sound-am3d-t3396698/post71580634#post71580634), [ViPER4AndroidFX](https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058), & ViPER4AndroidXHiFi
 
 ## Change Log
+### v3.2 - 11.08.2017
+* Updated to Unity/AML v2.2 - Please clean install Audio Modification Library and all modules (this will be the last version you'll have to clean install so in the future the auto clean install/upgrade script will take effect)
+
 ### v3.1 - 10.26.2017
 * Unity/AML v2.1: Updated for Magisk v14.3
 * Unity/AML v2.1: Updated to Magisk module template 1410
@@ -65,8 +68,8 @@ This module enables <name> port and is the <compnum>most compatible of all the p
 
 ## Credits
 * [Dolby Laboratories](https://www.dolby.com/us/en/brands/dolby-atmos.html)
-* <credits>
+* [LeEco](http://www.leeco.com/us/)
 
 ## Source Code
-* Module [GitHub](https://github.com/therealahrion/<url>)
+* Module [GitHub](https://github.com/therealahrion/Dolby-Atmos-LeEco-Le-Pro-)
 * Collective Dolby Atmos Ports [GitHub](https://github.com/therealahrion/Collective-Dolby-Atmos-Ports)
