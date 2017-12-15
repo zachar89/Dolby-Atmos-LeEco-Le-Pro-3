@@ -5,7 +5,7 @@ This module enables LeEco Le Pro 3 Dolby Atmos port and is the second most compa
 * [Audio Modification Library](https://forum.xda-developers.com/apps/magisk/module-audio-modification-library-t3579612) @ XDA Developers
 
 ## Compatibility
-* Android Marshmallow+
+* Android Marshmallow-Nougat
 * init.d (other root & rootless) - requires init.d support. If you don't have init.d support, try [Init.d Injector](https://forum.xda-developers.com/android/software-hacking/mod-universal-init-d-injector-wip-t3692105)
 * MagiskSU & SuperSU
 * Magisk & System install
