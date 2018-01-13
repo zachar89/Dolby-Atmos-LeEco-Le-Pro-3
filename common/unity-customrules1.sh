@@ -1,5 +1,13 @@
 TIMEOFEXEC=1
 
+# Temp fix for oos oreo devices
+if $OREONEW && [ "$(grep_prop ro.product.brand)" == "OnePlus" ]; then
+  ui_print "   ! Oneplus Oreo device detected !"
+  ui_print "   Setting selinux to permissive..."
+  echo "$SHEBANG" > $INSTALLER/common/post-fs-data.sh
+  echo "setenforce 0" >> $INSTALLER/common/post-fs-data.sh
+fi
+
 if [ "$DOLBY" != axon7 ] && [ "$DOLBY" != a7000-6.5 ]; then
   
   # GET OLD/NEW FROM ZIP NAME
@@ -40,3 +48,4 @@ if [ "$DOLBY" != axon7 ] && [ "$DOLBY" != a7000-6.5 ]; then
     ui_print "  Old ui will be installed"
   fi
 fi
+  
